@@ -1,2 +1,4 @@
 # Dolphin-pro-player
-New
+
+Whats new in v 7.0 maronz
+
